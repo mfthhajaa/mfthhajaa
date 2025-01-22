@@ -1,12 +1,19 @@
 <h1 align="center">👋 Hi, I'm Miftahul Rizky 👨‍💻</h1>
+
 <h3 align="center">A Passionate Web Developer 🚀 from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E9FF0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Lifelong+Learner+🌟;I+Build+Awesome+Software!;Feel+free+to+explore+my+work+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E9FF0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Lifelong+Learner+🌟;I+Build+Awesome+Software!;" alt="Typing Animation" />
 </p>
 
 ---
 
+<h4 align="center">Ngoding dulu aja, Jagonya belakngan!!!</h4>
+
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY1MHB5anpxYzlsdDl0YTh0YTQ5eGNqOWliMG5vaHM1cDJiMXQwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" alt="Programming Animation" />
+</p>
 
 ---
 
@@ -56,6 +63,12 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src=https://github-profile-trophy.vercel.app/?username=mfthhajaa&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
 </p>
 
 ---

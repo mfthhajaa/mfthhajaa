@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Technologies**
 - 👨‍💻 Explore my projects:-------------)
 - 💬 Ask me about **Web Development, Machine Learning**
-- 📫 Reach me at **akunbaru170307@gmail.com**
+- 📫 Reach me at **miftahulriz1703@gmail.com**
 
 ---
 

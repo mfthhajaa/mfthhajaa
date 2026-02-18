@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 About Me
-- 🔥 18 y.o Dream Chaser
+- 🔥 18 y.o 
 - 💪 Self-made sejak muda
 - 💻 Passion di Programming & Technology
-- 🎯 Target: Jadi Software Engineer sukses
+- 🎯 Target: Full Stack Developer
 
 ---
 
@@ -23,8 +23,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LU&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LU&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mfthhajaa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mfthhajaa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your@email.com
-- 📱 Instagram: @username- 👨‍💻 Explore my projects:-------------)
+- 📧 Email: miftahulrizz1703@gmail.com
+- 📱 Instagram: @mfthajaa- 👨‍💻 Explore my projects:-------------)
 - 💬 Ask me about **Web Development, Machine Learning**
 - 📫 Reach me at **miftahulriz1703@gmail.com**
 

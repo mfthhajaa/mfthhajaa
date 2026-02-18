@@ -1,26 +1,42 @@
-<h1 align="center">👋 Hi, I'm Miftahul Rizky 👨‍💻</h1>
-
-<h3 align="center">A Passionate Web Developer 🚀 from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Miftahul Rizky</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E9FF0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Lifelong+Learner+🌟;I+Build+Awesome+Software!;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Frontend+Developer;Future+Software+Engineer;Never+Give+Up+🔥" />
 </p>
 
 ---
 
-<h4 align="center">Ngoding dulu aja, Jagonya belakngan!!!</h4>
+## 🚀 About Me
+- 🔥 18 y.o Dream Chaser
+- 💪 Self-made sejak muda
+- 💻 Passion di Programming & Technology
+- 🎯 Target: Jadi Software Engineer sukses
 
+---
 
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY1MHB5anpxYzlsdDl0YTh0YTQ5eGNqOWliMG5vaHM1cDJiMXQwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" alt="Programming Animation" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,nodejs,python,cpp,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 I’m a graduate of **SMK BINA BANGSA**
-- 🌱 I’m currently learning **Technologies**
-- 👨‍💻 Explore my projects:-------------)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LU&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LU&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Motto
+> "Start from nothing. Build everything."
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: your@email.com
+- 📱 Instagram: @username- 👨‍💻 Explore my projects:-------------)
 - 💬 Ask me about **Web Development, Machine Learning**
 - 📫 Reach me at **miftahulriz1703@gmail.com**
 
